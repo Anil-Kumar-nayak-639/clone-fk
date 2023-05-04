@@ -1,11 +1,16 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import NavigationBar from './components/navbar';
 import './App.css';
+import NavigationBar from './components/navbar';
+import Flex from './components/flex';
+import Crouselsdt from './components/crousels';
+
 
 function App() {
   return (
     <div className="App">
-      <NavigationBar />
+      <NavigationBar />;
+      <Flex />;
+      <Crouselsdt />;
     </div>
   );
 }

@@ -37,7 +37,7 @@
   }
 }
 
-/* manually */
+/* manually  navbar*/
 #navSearch{
   width: 600px;
   height: 40px;
@@ -81,4 +81,11 @@
   background-color: white;
   color: #2874f0;
   
+}
+/* manually flex */
+.flx{
+  color:black ;
+  font-weight: 500;
+  font-size: 14px;
+  text-decoration-line: none;
 }
