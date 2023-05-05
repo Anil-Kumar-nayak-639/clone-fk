@@ -89,3 +89,13 @@
   font-size: 14px;
   text-decoration-line: none;
 }
+/* manually Jumbotron */
+#jumbo{
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+#price{
+  font-weight: bold;
+}
